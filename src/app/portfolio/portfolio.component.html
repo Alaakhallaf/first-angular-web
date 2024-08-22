@@ -1,0 +1,30 @@
+
+
+<div class="portfolio py-5 my-3">
+    <div class="container">
+        <h1 class="text-center pt-4 pb-2 pt-5 mt-5  my-con">PORTFOLIO COMPONENT</h1>
+         <app-star></app-star>
+
+          <div class="row g-5 p-5">
+           @for (mimage of images; track $index) {
+            <div class="col-md-6 col-lg-4 "(click)="open(mine.src)">
+                <div class="box position-relative">
+                 <div class="image rounded ">
+                     <img #mine class="w-100 rounded" src="{{mimage}}" alt="">
+                 </div>
+                 <div class="layer rounded d-flex justify-content-center align-items-center">
+                     <span><i class="fa-solid fa-plus my-icon"></i></span>
+                 </div>
+                </div>
+             </div> 
+           }
+        </div>
+    </div>
+    @if (isclicked==true) {
+        <div class=" screen  position-fixed z-3 top-0 bottom-0 start-0 end-0 d-flex justify-content-center align-items-center " (click)="close()">
+            <div class="imgd  w-50 position-fixed ">
+                <img class="w-100"(click)="onImgClicl($event)" src="{{image}}" alt="">
+            </div>
+                </div>
+    }
+</div>

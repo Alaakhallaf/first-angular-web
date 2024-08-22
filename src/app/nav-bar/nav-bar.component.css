@@ -1,0 +1,30 @@
+
+
+.fontc{
+    color: #FFFFFF;
+    text-decoration: none;
+font-size: 16px;
+line-height: 24px;
+font-weight: 700;
+}
+.fontn{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size:32px ;
+    line-height: 48px;
+    font-weight: 700;
+}
+.my-back{
+    background-color: #2C3E50;
+ 
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 30px;
+    transition-duration: .5s;
+}
+.link{
+    background-color: #1ABC9C;
+   
+    padding: 10px;
+}

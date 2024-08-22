@@ -1,0 +1,33 @@
+
+
+
+.footer{
+    background-color: #2C3E50;
+   
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+}
+.all-text{
+    color: #ffff;
+   
+}
+.my-icon{
+    color: #ffff;
+    border: solid 1px #ffff;
+   
+    padding: 10px;
+    padding-left:12px ;
+    padding-right: 12px;
+    margin: 2px;
+}
+
+ .copy{
+    color: #ffff;
+    background-color: #17212A;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+ }
+ 

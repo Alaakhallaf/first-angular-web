@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../Users/pc/Desktop/course assigments/danniels"
+		},
+		{
+			"path": "../../../../../Users/pc/Desktop/course sessions/session 6"
+		},
+		{
+			"path": "../../../../../Users/pc/Desktop/DEVFOLIO2"
+		},
+		{
+			"path": "../../../../../Users/pc/Downloads/danniels"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "danniels"
+	}
+}

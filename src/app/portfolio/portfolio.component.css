@@ -1,0 +1,32 @@
+
+.my-con{
+    color: #2c3e50;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.layer{
+background-color: #29b198c4;
+position: absolute;
+top: 0%;
+bottom: 0%;
+left: 0%;
+right: 0%;
+opacity: 0;
+    transition-duration: .7s;
+}
+
+.my-icon{
+    color: #fff;
+    font-size: 100px;
+
+}
+.box:hover .layer{
+opacity: 1;
+
+}
+
+.screen{
+    background-color: #649eee8a;
+}

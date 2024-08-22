@@ -1,0 +1,22 @@
+
+.home{
+    background-color: #1ABC9C;
+    min-height: 100vh;
+    z-index: 1;
+}
+.text{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #ffff;
+    
+}
+.stext{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #ffff;
+    
+}
+
+ 

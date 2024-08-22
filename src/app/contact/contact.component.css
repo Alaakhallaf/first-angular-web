@@ -1,0 +1,15 @@
+
+
+.my-input{
+    border-bottom: 1px solid #1816165e;
+    }
+    .form-control:focus{
+        box-shadow: none;
+        
+    }
+    .my-btn{
+        color: #ffff;
+        background-color: #1ABC9C;
+    
+    }
+   
